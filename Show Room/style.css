@@ -1,0 +1,58 @@
+h1{
+   
+    
+    color: rgb(3, 3, 3);
+    width: 300px;
+    height: auto;
+    margin-left:  190px;
+
+}
+body{
+    background-color: white;
+    
+}
+#max{
+    margin-right: 50%;
+    padding-right: 50%;
+}
+
+P{
+    text-align: center;
+  font-size: 50px;
+}
+#pp{
+    font-size: 30px;
+}
+
+#dr{
+    
+    color: gray;
+}
+#may{
+padding-right: 90%;
+background-color: black;
+}
+fieldset{
+    color: aliceblue;
+}
+
+
+    .text-block {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+        background-color: black;
+        color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+      p{
+        color: black;
+      }
+      
+      
+     
+      
+
+
+
